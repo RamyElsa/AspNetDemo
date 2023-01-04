@@ -1,0 +1,17 @@
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\bin\Debug\net6.0\AspDotNetDemoData.deps.json
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\bin\Debug\net6.0\AspDotNetDemoData.dll
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\bin\Debug\net6.0\AspDotNetDemoData.pdb
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\bin\Debug\net6.0\AspDotNetDemoCore.dll
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\bin\Debug\net6.0\AspDotNetDemoCore.pdb
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\obj\Debug\net6.0\AspDotNetDemoData.csproj.AssemblyReference.cache
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\obj\Debug\net6.0\AspDotNetDemoData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\obj\Debug\net6.0\AspDotNetDemoData.AssemblyInfoInputs.cache
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\obj\Debug\net6.0\AspDotNetDemoData.AssemblyInfo.cs
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\obj\Debug\net6.0\AspDotNetDemoData.csproj.CoreCompileInputs.cache
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\obj\Debug\net6.0\AspDotNetDemoData.csproj.CopyComplete
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\obj\Debug\net6.0\AspDotNetDemoData.dll
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\obj\Debug\net6.0\refint\AspDotNetDemoData.dll
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\obj\Debug\net6.0\AspDotNetDemoData.pdb
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\obj\Debug\net6.0\ref\AspDotNetDemoData.dll
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\bin\Debug\net6.0\AspDotNetDemoData.runtimeconfig.json
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoData\obj\Debug\net6.0\AspDotNetDemoData.genruntimeconfig.cache

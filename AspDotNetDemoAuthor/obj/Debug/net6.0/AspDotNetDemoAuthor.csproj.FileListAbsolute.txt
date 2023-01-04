@@ -1,0 +1,8 @@
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoAuthor\obj\Debug\net6.0\AspDotNetDemoAuthor.csproj.AssemblyReference.cache
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoAuthor\obj\Debug\net6.0\AspDotNetDemoAuthor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoAuthor\obj\Debug\net6.0\AspDotNetDemoAuthor.AssemblyInfoInputs.cache
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoAuthor\obj\Debug\net6.0\AspDotNetDemoAuthor.AssemblyInfo.cs
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoAuthor\obj\Debug\net6.0\AspDotNetDemoAuthor.csproj.CoreCompileInputs.cache
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoAuthor\obj\Debug\net6.0\AspDotNetDemoAuthor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoAuthor\obj\Debug\net6.0\AspDotNetDemoAuthor.RazorAssemblyInfo.cache
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoAuthor\obj\Debug\net6.0\AspDotNetDemoAuthor.RazorAssemblyInfo.cs

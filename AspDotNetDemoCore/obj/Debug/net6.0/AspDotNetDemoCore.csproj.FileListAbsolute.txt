@@ -1,0 +1,12 @@
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoCore\bin\Debug\net6.0\AspDotNetDemoCore.deps.json
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoCore\bin\Debug\net6.0\AspDotNetDemoCore.dll
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoCore\bin\Debug\net6.0\AspDotNetDemoCore.pdb
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoCore\obj\Debug\net6.0\AspDotNetDemoCore.csproj.AssemblyReference.cache
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoCore\obj\Debug\net6.0\AspDotNetDemoCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoCore\obj\Debug\net6.0\AspDotNetDemoCore.AssemblyInfoInputs.cache
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoCore\obj\Debug\net6.0\AspDotNetDemoCore.AssemblyInfo.cs
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoCore\obj\Debug\net6.0\AspDotNetDemoCore.csproj.CoreCompileInputs.cache
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoCore\obj\Debug\net6.0\AspDotNetDemoCore.dll
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoCore\obj\Debug\net6.0\refint\AspDotNetDemoCore.dll
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoCore\obj\Debug\net6.0\AspDotNetDemoCore.pdb
+C:\Users\Ramy El-Sayed\source\repos\AspDotNetDemo\AspDotNetDemoCore\obj\Debug\net6.0\ref\AspDotNetDemoCore.dll
